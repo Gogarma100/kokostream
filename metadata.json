@@ -1,0 +1,5 @@
+{
+  "name": "KokoStream StoryTeller",
+  "description": "An interactive storytelling app that uses AI to generate scripts, narrations, and scene images from a simple prompt.",
+  "requestFramePermissions": []
+}
